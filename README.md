@@ -121,6 +121,9 @@ python main.py
 ```text
 digital-notebook/
 │
+├── .github/
+│   └── workflows
+│     └── release.yml
 ├── notebook/
 │   ├── __init__.py
 │   ├── items.py
