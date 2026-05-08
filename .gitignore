@@ -11,6 +11,7 @@ venv/
 .DS_Store
 Thumbs.db
 
+output/
 build/
 dist/
 *.spec
@@ -20,3 +21,6 @@ dist/
 *.jsc
 
 *.log
+
+notes.png
+notes.ico
